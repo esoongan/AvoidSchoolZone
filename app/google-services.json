@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33574380664",
+    "firebase_url": "https://avoidschoolzone-b6317.firebaseio.com",
+    "project_id": "avoidschoolzone-b6317",
+    "storage_bucket": "avoidschoolzone-b6317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33574380664:android:b64f81b0af048f4f68398d",
+        "android_client_info": {
+          "package_name": "com.example.avoidschoolzone_201713069_seungjinlee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33574380664-s6v8broaplbu6jaip4en92frmj08mtq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avoidschoolzone_201713069_seungjinlee",
+            "certificate_hash": "bb24e3391779c742457a166a3263b87fe958c6ef"
+          }
+        },
+        {
+          "client_id": "33574380664-r2bo4vanvl95pr6dqbpl3p7cp8ekrbbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD1iCe4SUJV-HytnYyiB9mwE0s8nmiE4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33574380664-r2bo4vanvl95pr6dqbpl3p7cp8ekrbbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
